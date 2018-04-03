@@ -1,8 +1,8 @@
 # Personal Portfolio
 
-Please do try it: [Link](https://rohitjmathew.xyz)
+![alt text](img/Screenshot.png "Screenshot")
 
-[Screenshot](img/Screenshot.png "Screenshot")
+Please do try it: [Link](https://rohitjmathew.xyz)
 
 *The website targets the latest version of Chrome, Safari, and Firefox.*
 
