@@ -5,7 +5,7 @@ import get from 'lodash/get'
 
 import './style.scss'
 
-import profileImage from '../assets/images/rohit.png'
+import profileImage from '../assets/images/rohit.webp'
 import favicon from '../assets/favicons/favicon.png'
 
 class TemplateWrapper extends React.Component {
