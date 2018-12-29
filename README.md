@@ -1,14 +1,24 @@
-# Personal Portfolio
+# gatsby-starter-2column-portfolio
+A minimalistic portfolio starter for [Gatsby](https://www.gatsbyjs.org/) with a 2 column layout.  
 
-![alt text](img/Screenshot.png "Screenshot")
+## Demo
+See it in action [here](https://rohitjmathew.xyz/).
 
-Please do try it: [Link](https://rohitjmathew.xyz)
+## Installation
+```
+gatsby new gatsby-site https://github.com/rohitjmathew/rohitjmathew.github.io
+```
 
-*The website targets the latest version of Chrome, Safari, and Firefox.*
+## Features
+- Designed as a minimalistic portfolio website
+- A minimalistic grid using `flexboxgrid`
+- Styled using `SCSS`
+- Font icons using `font-awesome`
+- Google Analytics using `gatsby-plugin-google-analytics`
+- Open Sans font using `gatsby-plugin-google-fonts`
+- Prerendered Open Graph tags for rich sharing
 
-## How to get your own?
-1. Fork the repo
-2. Rename the repo as `your-user-name.github.com`
-3. Check at [http://your-user-name.github.com](http://your-user-name.github.com)
-4. Start making changes!
-
+## Customization
+- Modify the experiences section by changing `ExperienceSection/index.js`
+- Configure site meta data and add your GA tracking ID in `gatsby-config.js`
+- Favicon, images and base SCSS are located in `assets/`
