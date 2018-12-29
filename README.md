@@ -1,5 +1,5 @@
 # gatsby-starter-2column-portfolio
-A minimalistic portfolio starter for [Gatsby](https://www.gatsbyjs.org/) with a 2 column layout.  
+A minimalistic portfolio site made using [Gatsby](https://www.gatsbyjs.org/).  
 
 ## Demo
 See it in action [here](https://rohitjmathew.xyz/).
