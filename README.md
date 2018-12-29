@@ -2,7 +2,7 @@
 A minimalistic portfolio website built using [Gatsby](https://www.gatsbyjs.org/).  
 
 ## Demo
-See it in action [here](https://rohitjmathew.xyz/).
+See it in action [here](https://www.rohitjmathew.xyz/).
 
 ## Installation
 ```
