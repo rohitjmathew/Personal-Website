@@ -9,7 +9,7 @@ const IndexPage = () => (
     <div className="index">
       <div className="main">
         <h2>
-          Hi, I'm <span className="bold">Rohit Mathew</span>
+          Hi, I'm <span className="bold">Rohit Jacob Mathew</span>
         </h2>
 
         <h4>
@@ -17,7 +17,7 @@ const IndexPage = () => (
 
           I am passionate about building scalable and reliable products for users and am currently doing so at Turtlemint. <br/><br/>
 
-          While my interests lie in development of backend solutions, scalable applications and in smart AI based system, I'm excited by almost anything in tech.
+          While my interests lie in development of backend solutions, DevOps, scalable applications and in smart AI based system, I'm excited by almost anything in tech.
 
         </h4>
 
