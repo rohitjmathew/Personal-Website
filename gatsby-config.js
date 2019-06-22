@@ -18,9 +18,10 @@ module.exports = {
     },
   ],
   siteMetadata: {
-    title: 'Rohit Mathew',
-    description: 'Full stack software enginner',
-    keywords: 'full stack, software enginner, portfolio, personal website',
-    url: 'https://rohitjmathew.xyz'
+    title: 'Rohit Jacob Mathew',
+    description: 'Full stack software engineer based in Bombay. SDE Turtlemint and Former SDE Intern at HackerRank',
+    keywords: 'full stack, software engineer, portfolio, personal website, Rohit Mathew, Rohit Jacob Mathew',
+    image: "../assets/images/rohit.webp",
+    url: 'https://rohitjmathew.space'
   }
 };
