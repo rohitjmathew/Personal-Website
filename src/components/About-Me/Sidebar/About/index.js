@@ -11,7 +11,7 @@ class About extends Component {
         <div className="bio">
           If I'm not coding, I am generally:
           <br></br>- Staying up to date with the latest technological developments
-          <br></br>- Binging Spotify playlists to find new unheard of artists
+          <br></br>- Binging Spotify playlists to find new artists
           <br></br>- Going for Gigs and Music Festivals
           <br></br>- Playing/Watching Football
 
