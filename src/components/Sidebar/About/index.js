@@ -9,9 +9,13 @@ class About extends Component {
         <div className="image">
         </div>
         <div className="bio">
-          A technology enthusiast &amp; someone who loves finding new unheard of artists, going for gigs
-          and follows football ardently.<br/><br/>
-          Why not say hello?
+          If I'm not coding, I am generally:
+          <br></br>- Staying up to date with the latest technological developments
+          <br></br>- Binging Spotify playlists to find new unheard of artists
+          <br></br>- Going for Gigs and Music Festivals
+          <br></br>- Playing/Watching Football
+
+          <br></br><br></br>Why not say hello?
         </div>
       </div>
     )

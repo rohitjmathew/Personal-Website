@@ -13,11 +13,11 @@ const IndexPage = () => (
         </h2>
 
         <h4>
-          Full stack software engineer currently based in Mumbai, India. <br/><br/>
+          A full stack software engineer currently based in Mumbai, India. <br/><br/>
 
           I am passionate about building scalable and reliable products for users and am currently doing so at Turtlemint. <br/><br/>
 
-          While my interests lie in development of backend solutions, DevOps, scalable applications and in smart AI based system, I'm excited by almost anything in tech.
+          While my interests currently lie in the development of scalable backend solutions, DevOps and in smart AI based system, I'm excited by almost anything in tech.
 
         </h4>
 

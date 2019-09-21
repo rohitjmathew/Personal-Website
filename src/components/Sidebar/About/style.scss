@@ -1,6 +1,6 @@
 @import '../../../assets/scss/main.scss';
 
-$max-width: 230px;
+$max-width: 300px;
 $margin-bottom: 40px;
 
 .about {
@@ -34,6 +34,7 @@ $margin-bottom: 40px;
     max-width: $max-width;
     line-height: 2.8rem;
     font-size: 1.8rem;
+    text-align: justify;
 
     .emoji {
       font-size: 1.6rem;
