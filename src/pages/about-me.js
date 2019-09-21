@@ -1,9 +1,9 @@
 import React from 'react'
-import ExperienceSection from '../components/ExperienceSection'
-import About from '../components/Sidebar/About'
-import Links from '../components/Sidebar/Links'
+import ExperienceSection from '../components/About-Me/ExperienceSection'
+import About from '../components/About-Me/Sidebar/About'
+import Links from '../components/About-Me/Sidebar/Links'
 
-import './style.scss'
+import './about-me.style.scss'
 
 const IndexPage = () => (
     <div className="index">

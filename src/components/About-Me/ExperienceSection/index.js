@@ -2,9 +2,9 @@ import React from 'react'
 import Section from '../Section'
 import ExperienceUnit from '../ExperienceUnit'
 
-import turtlemintLogo from '../../assets/images/experience/turtlemint.webp'
-import hackerrankLogo from '../../assets/images/experience/hackerrank.webp'
-import lexLogo from '../../assets/images/experience/lex.webp'
+import turtlemintLogo from '../../../assets/images/experience/turtlemint.webp'
+import hackerrankLogo from '../../../assets/images/experience/hackerrank.webp'
+import lexLogo from '../../../assets/images/experience/lex.webp'
 
 class ExperienceSection extends React.Component {
   render() {
