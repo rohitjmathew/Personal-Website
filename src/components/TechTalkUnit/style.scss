@@ -22,6 +22,11 @@
   .title {
     padding: 8px 0px;
     font-size: 1.8rem;
+    color: #000000;
+
+    &:hover {
+      color: #394A6A;
+    }
   }
 
   .time-period {
