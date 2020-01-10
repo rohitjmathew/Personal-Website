@@ -2,6 +2,7 @@ import React from 'react'
 import ExperienceSection from '../components/ExperienceSection'
 import ResearchPaperSection from '../components/ResearchPaperSection'
 import TechTalkSection from '../components/TechTalkSection'
+import BlogPostSection from '../components/BlogPostSection'
 import About from '../components/Sidebar/About'
 import Links from '../components/Sidebar/Links'
 
@@ -31,6 +32,9 @@ const IndexPage = () => (
 
         <br/>
         <TechTalkSection />
+
+        <br/>
+        <BlogPostSection />
 
       </div>
 
