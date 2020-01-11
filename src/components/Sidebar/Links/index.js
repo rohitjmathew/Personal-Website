@@ -29,6 +29,11 @@ class Links extends Component {
             </a>
           </li>
           <li className="icon">
+            <a href="https://scholar.google.co.in/citations?user=7moht3YAAAAJ&hl=en" target="_blank">
+              <i className="fa fa-graduation-cap"></i>
+            </a>
+          </li>
+          <li className="icon">
             <a href="https://tinyletter.com/teamix" target="_blank">
               <i className="fa fa-rss"></i>
             </a>
