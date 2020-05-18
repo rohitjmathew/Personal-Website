@@ -8,6 +8,11 @@ class BlogPostSection extends React.Component {
       <Section title="Blog Posts">
         <div className="column">
           <BlogPostUnit
+            title='How to Grow Your Digital Brand as a Developer'
+            link='https://codeburst.io/grow-your-digital-brand-fdc2fd6b6bd9'
+            timeperiod='18 May 2020'
+          />
+          <BlogPostUnit
             title='How Turtlemint uses Postman to help collaboration between remote teams'
             link='https://medium.com/turtlemint-engineering-blog/how-turtlemint-uses-postman-to-help-collaboration-between-remote-teams-7aa6e4501097'
             timeperiod='6 Jan 2020'
