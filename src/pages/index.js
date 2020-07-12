@@ -1,5 +1,6 @@
 import React from 'react'
 import ExperienceSection from '../components/ExperienceSection'
+import ProjectSection from '../components/ProjectSection'
 import ResearchPaperSection from '../components/ResearchPaperSection'
 import TechTalkSection from '../components/TechTalkSection'
 import BlogPostSection from '../components/BlogPostSection'
@@ -26,6 +27,9 @@ const IndexPage = () => (
 
         <br/>
         <ExperienceSection />
+
+        <br/>
+        <ProjectSection />
 
         <br/>
         <ResearchPaperSection />
