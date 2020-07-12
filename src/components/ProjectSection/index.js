@@ -28,7 +28,7 @@ class ResearchPaperSection extends React.Component {
             timeperiod='A custom Jenkins integration for Hubot with multiple server support with the use of access tokens instead of password authentication.'
           />
           <ProjectUnit
-            title='Hubot Jenkins Optimised Plugin'
+            title='Hubot Slack Attachment Optimised Plugin'
             link='https://www.npmjs.com/package/hubot-slack-attachment-optimised'
             timeperiod='A custom Slack integration for Hubot which enables sending detailed messaged (by means of attachments) from Hubot to Slack using incoming webhooks.'
           />
