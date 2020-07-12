@@ -5,7 +5,7 @@ import ProjectUnit from '../ProjectUnit'
 class ResearchPaperSection extends React.Component {
   render() {
     return (
-      <Section title="Project Section">
+      <Section title="Projects">
         <div className="column">
           <ProjectUnit
             title='Manchester United Quiz'
