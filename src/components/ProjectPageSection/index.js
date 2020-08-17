@@ -10,7 +10,7 @@ class ResearchPaperSection extends React.Component {
           <ProjectUnit
             title='Manchester United Quiz'
             link='https://assistant.google.com/services/a/uid/0000006f43c77ac7'
-            timeperiod='Google Assistant Applications built to understand chatbots. This is a quiz built to test the user knowledge about Manchester United Football Club.'
+            timeperiod='Google Assistant chatbot to test the user knowledge about Manchester United Football Club.'
           />
           <ProjectUnit
             title='Personal Website'
@@ -20,17 +20,17 @@ class ResearchPaperSection extends React.Component {
           <ProjectUnit
             title='Slack Jenkins Bot'
             link='https://github.com/rohitjmathew/slack-jenkins-bot'
-            timeperiod='A slack bot to trigger jenkins jobs and post status back to a slack channel. Made using hubot (github).'
+            timeperiod='A slack bot to trigger jenkins jobs and post status back to a slack channel. Made using hubot (GitHub).'
           />
           <ProjectUnit
             title='Hubot Jenkins Optimised Plugin'
             link='https://www.npmjs.com/package/hubot-jenkins-optimised'
-            timeperiod='A custom Jenkins integration for Hubot with multiple server support with the use of access tokens instead of password authentication.'
+            timeperiod='A custom Jenkins integration for Hubot with multiple server support.'
           />
           <ProjectUnit
             title='Hubot Slack Attachment Optimised Plugin'
             link='https://www.npmjs.com/package/hubot-slack-attachment-optimised'
-            timeperiod='A custom Slack integration for Hubot which enables sending detailed messaged (by means of attachments) from Hubot to Slack using incoming webhooks.'
+            timeperiod='A Slack integration for Hubot which enables sending detailed messaged (by means of attachments) from Hubot to Slack.'
           />
           <ProjectUnit
             title='Hubot Jenkins notifier for Slack'
