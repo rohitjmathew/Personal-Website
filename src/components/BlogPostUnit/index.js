@@ -6,7 +6,7 @@ class BlogPostUnit extends Component {
   render() {
     return (
       <div className="experience-unit">
-        <a href={this.props.link} target="_blank">
+        <a href={this.props.link}>
         <div className="title bold">
           {this.props.title}
         </div>

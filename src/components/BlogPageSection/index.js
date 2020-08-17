@@ -8,6 +8,11 @@ class BlogPostSection extends React.Component {
       <Section title="Blog Posts">
         <div className="column">
           <BlogPostUnit
+            title='Lessons for Working Remotely: Thoughts From a Pandemic'
+            link='https://medium.com/turtlemint-engineering-blog/lessons-for-working-remotely-thoughts-from-a-pandemic-a3d6d1cedef6'
+            timeperiod='17 Aug 2020'
+          />
+          <BlogPostUnit
             title='How to Grow Your Digital Brand as a Developer'
             link='https://codeburst.io/grow-your-digital-brand-fdc2fd6b6bd9'
             timeperiod='18 May 2020'
