@@ -19,9 +19,9 @@ const IndexPage = () => (
         <h4>
           A full stack software engineer currently based in Mumbai, India. <br/><br/>
 
-          I am passionate about building scalable and reliable products for users and am currently doing so at Turtlemint. <br/><br/>
+          I am currently working on scaling and building a reliable product for agents to sell insurance at Turtlemint. <br/><br/>
 
-          While my interests currently lie in the development of scalable backend solutions, DevOps and in smart AI based system, I'm excited by almost anything in tech.
+          While my interests currently lie in the development of scalable solutions, DevOps, Developer Relations/Dev Evangelism as well as smart AI based system, I'm excited by almost anything in tech.
 
         </h4>
 
