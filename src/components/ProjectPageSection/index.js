@@ -9,7 +9,7 @@ class ResearchPaperSection extends React.Component {
         <div className="column">
           <ProjectUnit
             title='Templater Bot'
-            link='https://github.com/apps/templater'
+            link='https://github.com/marketplace/templater'
             timeperiod='A Probot application to enforce PR or Issue Templates.'
           />
           <ProjectUnit
