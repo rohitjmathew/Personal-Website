@@ -8,6 +8,11 @@ class ResearchPaperSection extends React.Component {
       <Section title="Projects">
         <div className="column">
           <ProjectUnit
+            title='Templater Bot'
+            link='https://github.com/marketplace/templater'
+            timeperiod='A Probot application to enforce PR or Issue Templates.'
+          />
+          <ProjectUnit
             title='Manchester United Quiz'
             link='https://assistant.google.com/services/a/uid/0000006f43c77ac7'
             timeperiod='Google Assistant chatbot to test the user knowledge about Manchester United Football Club.'
