@@ -4,7 +4,7 @@ import ExperienceUnit from '../ExperienceUnit'
 
 import turtlemintLogo from '../../assets/images/experience/turtlemint.webp'
 import hackerrankLogo from '../../assets/images/experience/hackerrank.webp'
-import lexLogo from '../../assets/images/experience/lex.webp'
+import auth0Logo from '../../assets/images/experience/auth0.webp'
 
 class ExperienceSection extends React.Component {
   render() {
@@ -19,18 +19,18 @@ class ExperienceSection extends React.Component {
             timeperiod='Current'
           />
           <ExperienceUnit
+            logo={auth0Logo}
+            colour='#FFFFFF'
+            title='Auth0 Ambassador'
+            link='https://auth0.com/ambassador-program'
+            timeperiod='Current'
+          />
+          <ExperienceUnit
             logo={hackerrankLogo}
             colour='#FFFFFF'
             title='HackerRank'
             link='https://www.hackerrank.com/'
             timeperiod='2017'
-          />
-          <ExperienceUnit
-            logo={lexLogo}
-            colour='#FFFFFF'
-            title='Logilinks'
-            link='https://www.logilinkscs.com/'
-            timeperiod='2016'
           />
         </div>
       </Section>
