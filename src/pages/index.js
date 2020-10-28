@@ -19,7 +19,7 @@ const IndexPage = () => (
         <h4>
           A Software Development Engineer from India<br/><br/>
 
-          I am currently working on scaling and building a reliable product for agents to sell insurance at Turtlemint. I am also an Auth0 Ambassador and a former SDE Intern HackerRank.<br/><br/>
+          I am currently working on scaling and building a reliable product for agents to sell insurance at Turtlemint. I am also an Auth0 Ambassador and a former SDE Intern at HackerRank.<br/><br/>
 
           While my interests currently lie in the development of scalable solutions, DevOps, Developer Relations/Dev Evangelism as well as smart AI based system, I'm excited by almost anything in tech.
 
