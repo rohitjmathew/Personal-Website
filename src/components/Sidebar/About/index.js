@@ -14,6 +14,7 @@ class About extends Component {
           <br></br>- Binging Spotify playlists to find new unheard of artists
           <br></br>- Going for Gigs and Music Festivals
           <br></br>- Playing/Watching Football
+          <br></br>- Attempting to not be an out of Practice Musician
 
           <br></br><br></br>Why not say hello?
         </div>

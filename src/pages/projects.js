@@ -9,7 +9,7 @@ const IndexPage = () => (
     <div className="blogs">
       <div className="main">
         <h2>
-          Hi, I'm <span className="bold">Rohit Jacob Mathew</span>
+          Hi 👋🏽 I'm <span className="bold">Rohit Jacob Mathew</span>
         </h2>
 
         <br/>
