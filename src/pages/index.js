@@ -30,15 +30,15 @@ const IndexPage = () => (
 
         <br/>
         <ProjectSection />
+    
+        <br/>
+        <BlogPostSection />
 
         <br/>
         <ResearchPaperSection />
 
         <br/>
         <TechTalkSection />
-
-        <br/>
-        <BlogPostSection />
 
       </div>
 
