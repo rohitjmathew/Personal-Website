@@ -25,7 +25,7 @@ class Links extends Component {
           </li>
           <li className="icon">
             <a href="https://dev.to/rohitjmathew">
-              <i className="fab fa-dev" title="rohitjmathew's DEV Profile"></i>
+              <i className="fa fa-dev" title="rohitjmathew's DEV Profile"></i>
             </a>
           </li>
           <li className="icon">
