@@ -20,7 +20,7 @@ class Links extends Component {
           </li>
           <li className="icon">
             <a href="https://medium.com/@rohitjmathew" target="_blank">
-              <i className="fab fa-medium fa-lg" title="rohitjmathew's Medium Profile"></i>
+              <i className="fab fa-medium-m fa-lg" title="rohitjmathew's Medium Profile"></i>
             </a>
           </li>
           <li className="icon">
