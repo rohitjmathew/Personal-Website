@@ -9,14 +9,14 @@ class BlogPostSection extends React.Component {
       <Section title="Blog Posts">
         <div className="column">
           <BlogPostUnit
+            title='JSON Web Token (JWT) and why we use them?'
+            link='https://dev.to/rohitjmathew/json-web-token-jwt-and-why-we-use-them-42e3'
+            timeperiod='16 Dec 2020'
+          />
+          <BlogPostUnit
             title='Lessons for Working Remotely: Thoughts From a Pandemic'
             link='https://medium.com/turtlemint-engineering-blog/lessons-for-working-remotely-thoughts-from-a-pandemic-a3d6d1cedef6'
             timeperiod='17 Aug 2020'
-          />
-          <BlogPostUnit
-            title='How to Grow Your Digital Brand as a Developer'
-            link='https://codeburst.io/grow-your-digital-brand-fdc2fd6b6bd9'
-            timeperiod='18 May 2020'
           />
           <BlogPostUnit
             title='How Turtlemint uses Postman to help collaboration between remote teams'
