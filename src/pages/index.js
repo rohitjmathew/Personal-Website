@@ -17,7 +17,7 @@ const IndexPage = () => (
         </h2>
 
         <h4>
-          A Software Development Engineer from India<br/><br/>
+          A Senior Software Engineer from India<br/><br/>
 
           I am currently working on scaling and building a reliable product for agents to sell insurance at Turtlemint. I am also an Auth0 Ambassador and a former SDE Intern at HackerRank.<br/><br/>
 
