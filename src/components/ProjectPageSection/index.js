@@ -8,6 +8,11 @@ class ResearchPaperSection extends React.Component {
       <Section title="Projects">
         <div className="column">
           <ProjectUnit
+            title='readme.so'
+            link='https://readme.so'
+            timeperiod='readme.so is a markdown editor with ready made templates to easily create a simple README for your repositories.'
+          />
+          <ProjectUnit
             title='Templater Bot'
             link='https://github.com/marketplace/templater'
             timeperiod='A Probot application to enforce PR or Issue Templates.'
