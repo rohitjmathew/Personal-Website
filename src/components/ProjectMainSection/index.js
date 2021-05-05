@@ -8,6 +8,11 @@ class ResearchPaperSection extends React.Component {
       <Section title="Projects">
         <div className="column">
           <ProjectUnit
+            title='Slack Notifier For Vaccine in India'
+            link='https://github.com/rohitjmathew/vaccine-slack-notifier'
+            timeperiod="Slack Notifier for India's 18+ Vaccine Appointment"
+          />
+          <ProjectUnit
             title='readme.so'
             link='https://readme.so'
             timeperiod='readme.so is a markdown editor with ready made templates to easily create a simple README for your repositories.'
