@@ -140,31 +140,4 @@ $aside-width: 35%;
     width: $aside-width;
     padding: $vertical-padding $horizontal-padding $vertical-padding $horizontal-padding;
   }
-
-  .arrow {
-    // The arrow icon that indicates users can scroll down. It is
-    // built with CSS only
-    position: absolute;
-    z-index: 2;
-    bottom: 16px;
-    left: calc(50% - 1px);
-    width: 3px;
-    height: 16px;
-    background: white;
-    
-    animation: bounce 1s cubic-bezier(.19,.38,0,1) infinite;
-    
-    &::after {
-      content: '';
-      position: absolute;
-      width: 8px;
-      height: 8px;
-      bottom: 0;
-      left: -4px;
-      border-bottom: solid white 3px;
-      border-right: solid white 3px;
-      
-      transform: rotate(45deg);
-    }
-  }
 }
