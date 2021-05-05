@@ -50,6 +50,8 @@ const IndexPage = () => (
           <Links />
         </div>
       </div>
+
+      <div class="arrow"></div>
     </div>
 )
 
