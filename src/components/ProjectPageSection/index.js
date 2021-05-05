@@ -8,7 +8,7 @@ class ResearchPaperSection extends React.Component {
       <Section title="Projects">
         <div className="column">
           <ProjectUnit
-            title='vaccine-slack-notifier'
+            title='Slack Notifier For Vaccine in India'
             link='https://github.com/rohitjmathew/vaccine-slack-notifier'
             timeperiod="Slack Notifier for India's 18+ Vaccine Appointment"
           />
