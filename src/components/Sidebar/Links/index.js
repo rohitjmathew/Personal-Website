@@ -34,7 +34,7 @@ class Links extends Component {
             </a>
           </li>
           <li className="icon">
-            <a href="mailto:rohitjmathew@outlook.com" target="_blank">
+            <a href="mailto:rohitjmathew+website@outlook.com" target="_blank">
               <i className="fas fa-envelope fa-lg" title="rohitjmathew's Email ID"></i>
             </a>
           </li>
