@@ -16,14 +16,14 @@ class ExperienceSection extends React.Component {
             colour='#FFFFFF'
             title='Turtlemint'
             link='https://www.turtlemint.com/'
-            timeperiod='Current'
+            timeperiod='2018 - Current'
           />
           <ExperienceUnit
             logo={auth0Logo}
             colour='#FFFFFF'
             title='Auth0 Ambassador'
             link='https://auth0.com/ambassador-program'
-            timeperiod='Current'
+            timeperiod='2020 - Current'
           />
           <ExperienceUnit
             logo={hackerrankLogo}
