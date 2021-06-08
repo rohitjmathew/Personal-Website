@@ -8,15 +8,15 @@ class BlogPostSection extends React.Component {
     return (
       <Section title="Blog Posts">
         <div className="column">
+        <BlogPostUnit
+            title='Why Is a Social Login More Secure?'
+            link='https://blog.rohitjmathew.space/why-is-a-social-login-more-secure'
+            timeperiod='7 Jun 2021'
+          />
           <BlogPostUnit
             title='JSON Web Token (JWT) and why we use them?'
             link='https://blog.rohitjmathew.space/json-web-token-jwt-and-why-we-use-them'
             timeperiod='16 Dec 2020'
-          />
-          <BlogPostUnit
-            title='Lessons for Working Remotely: Thoughts From a Pandemic'
-            link='https://blog.rohitjmathew.space/lessons-for-working-remotely-thoughts-from-a-pandemic-a3d6d1cedef6'
-            timeperiod='17 Aug 2020'
           />
           <BlogPostUnit
             title='How Turtlemint uses Postman to help collaboration between remote teams'
