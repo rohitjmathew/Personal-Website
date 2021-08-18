@@ -1,10 +1,10 @@
 # Personal Website
-[![Netlify Status](https://api.netlify.com/api/v1/badges/f9cac376-40ce-4d08-a808-83be3bb55f13/deploy-status)](https://app.netlify.com/sites/rohitjmathew/deploys)
+
+## Note
+
+This is an older iteration if my personal website. New Version can be found [here](https://github.com/rohitjmathew/rohitjmathew.space)
 
 A minimalistic portfolio website built using [Gatsby](https://www.gatsbyjs.org/).  
-
-## Demo
-See it in action [here](https://www.rohitjmathew.space/).
 
 ## Installation
 ```
